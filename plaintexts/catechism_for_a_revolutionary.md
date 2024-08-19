@@ -1,6 +1,7 @@
 # 革命家の<ruby>教理問答書<rp>（</rp><rt>カテキズム</rt><rp>）</rp></ruby>
 
-https://github.com/whatneverhappened/texts/
+[https://github.com/whatneverhappened/texts/](https://github.com/whatneverhappened/texts/)  
+[https://github.com/whatneverhappened/texts/blob/main/pdfs/catechism_for_a_revolutionary.pdf](https://github.com/whatneverhappened/texts/blob/main/pdfs/catechism_for_a_revolutionary.pdf)
 
 
 ## 革命家の自己自身に対する態度
